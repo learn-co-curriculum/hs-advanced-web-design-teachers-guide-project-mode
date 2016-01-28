@@ -34,4 +34,4 @@ There are five steps:
 	+ Use whiteboards, etc.
 
 6. Pitch to groups and get feedback on the idea.
-<a href='https://learn.co/lessons/hs-advanced-web-design-teachers-guide-project-mode' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-advanced-web-design-teachers-guide-project-mode' title='SWABATs'>SWABATs</a> on Learn.co and start learning to code for free.</p>
